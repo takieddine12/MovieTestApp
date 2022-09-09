@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YassirTest</string>
+    <string name="retry">Retry...</string>
+    <string name="something_wrong">Something wrong</string>
+</resources>
